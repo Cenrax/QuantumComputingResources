@@ -8,6 +8,8 @@
 
 #### Quantum Algorithms (Practical)
 
+- Quantum Computing - An Applied Approach
+
 
 #### Quantum Cryyptography
 
