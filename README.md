@@ -101,6 +101,9 @@
 
 ### University Courses
 
+#### Quantum Computing
+
+- [Ryan Lalose - External Resources](https://www.ryanlarose.com/external-resources.html)
 #### Quantum Algorithms (Theory)
 
 
