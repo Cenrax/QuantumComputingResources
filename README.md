@@ -59,6 +59,9 @@
 
 ### Articles
 
+#### Quantum Computing
+- [Commercial applications of quantum computing](https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-021-00091-1)
+
 #### Quantum Algorithms (Theory)
 
 
