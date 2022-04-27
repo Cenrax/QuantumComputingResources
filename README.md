@@ -82,6 +82,8 @@
 
 #### Quantum Algorithms (Theory)
 
+- [A quantum Fourier transform (QFT) based note detection algorithm](https://arxiv.org/abs/2204.11775)
+
 
 #### Quantum Algorithms (Practical)
 
